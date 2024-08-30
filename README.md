@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davi2910
+- 👋 Hi, I’m @Davi
 - 👀 I’m interested in desenvolver e aprender
 - 🌱 I’m currently learning tecnologia da informação 
 - 💞️ I’m looking to collaborate on projetos básicos, colaborar e fazer feedbacks.
