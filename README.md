@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Davi
-- 👀 I’m interested in desenvolver e aprender
-- 🌱 I’m currently learning tecnologia da informação 
-- 💞️ I’m looking to collaborate on projetos básicos, colaborar e fazer feedbacks.
+- 🙋‍♂️ Hello World, Hello Progran
 
 <!---
 Davi2910/Davi2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
