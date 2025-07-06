@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Aniversário</title>
+
+    <style>
+        body {
+            background-color: blueviolet;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .painel {
+            background-color: white;
+            width: 500px;
+            height: 500px;
+            border-radius: 20px;
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        #presente {
+            height: 40px;
+            width: 160px;
+            background-color: darkmagenta;
+            border: 2px solid black;
+            border-radius: 10px;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        #gif {
+            display: none;
+            max-width: 80%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="painel">
+        <h1>Feliz Aniversário</h1>
+        <h2>Laura</h2>
+
+        <button id="presente">presente infinito!</button>
+
+        <img id="gif" src="https://imgs.search.brave.com/JXqRtY7I_omQVsmmtKsAgmD1dRLxaKO0hOE5USnGZRY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL2wySmU1/dk1jVzBGdnF1MTdX/LzIwMC5naWY_Y2lk/PTc5MGI3NjExdWpx/dHV6dmh1dTZ3b21w/MG9lcWl1Mmt0Ymg2/dGh2NTNyODVmemEw/byZlcD12MV9naWZz/X3NlYXJjaCZyaWQ9/MjAwLmdpZiZjdD1n.gif" alt="Presente GIF">
+    </div>
+
+    <script>
+        const presente = document.getElementById("presente");
+        const gif = document.getElementById("gif");
+
+        presente.addEventListener("click", function () {
+            
+            gif.style.display = "block";
+
+           
+            const larguraJanela = window.innerWidth;
+            const alturaJanela = window.innerHeight;
+
+            const maxX = larguraJanela - presente.offsetWidth;
+            const maxY = alturaJanela - presente.offsetHeight;
+
+            const aleatorioX = Math.floor(Math.random() * maxX);
+            const aleatorioY = Math.floor(Math.random() * maxY);
+
+            presente.style.position = "fixed";
+            presente.style.left = aleatorioX + "px";
+            presente.style.top = aleatorioY + "px";
+        });
+    </script>
+
+</body>
+</html>
