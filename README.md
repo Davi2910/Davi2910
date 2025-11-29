@@ -25,32 +25,23 @@
 ### 🤖 Linguagens e Tecnologias
 
 <p>
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 
 ---
 
 ### 📊 Estatísticas
 
+
 <p>
-  <img 
-    alt="GitHub Stats" 
-    height="180px"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Davi2910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-  />
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" />
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" />
+</p>
 
-  <img 
-    alt="Top Linguagens" 
-    height="180px"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Davi2910&theme=dark&layout=compact&custom_title=Tecnologias"
-  />
 
-  <img
-    alt="Streak Stats"
-    height="180px"
-    src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false"
-  />
+<p>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false" />
 </p>
