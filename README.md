@@ -2,10 +2,9 @@
 
 **`Entusiasta em Tecnologia`**
 
-🙋‍♂️ Hello World! Me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando Ciência da Computação e fazendo técnico em Informática no IFSP São João da Boa Vista. Sempre gostei de tecnologia e agora pretendo compartilhar meu conhecimento tanto aqui como para o mundo.  
+🙋‍♂️ Hello World! Me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando Ciência da Computação e fazendo técnico em Informática no IFSP São João da Boa Vista. Sempre gostei de tecnologia e agora pretendo compartilhar meu conhecimento tanto aqui como para o mundo.
 
-**Links para contato:**  
-[E-mail](https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0) | [LinkedIn](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba) | [Instagram @_paulinodavi_](https://www.instagram.com/_paulinodavi_/)
+**Links para contato:** [E-mail](mailto:seu_email_aqui) | [LinkedIn](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba) | [Instagram @_paulinodavi_](https://www.instagram.com/_paulinodavi_/)
 
 ---
 
@@ -36,11 +35,11 @@
 ### 📊 Estatísticas
 
 <p>
-  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" />
-  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi2910&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" height="180" alt="Estatísticas do Davi" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi2910&layout=compact&theme=dark&locale=pt-br" height="180" alt="Linguagens mais usadas" />
 </p>
 
-
 <p>
-  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false&locale=pt_BR" alt="Sequência de dias programando" />
 </p>
