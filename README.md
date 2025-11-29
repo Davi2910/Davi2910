@@ -6,8 +6,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" alt="Estatísticas gerais"/>
-  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" alt="Linguagens mais usadas"/>
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" alt="Estatísticas do GitHub de Davi Paulino"/>
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" alt="Linguagens Utilizadas (Por Tamanho de Arquivo)"/>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ## 📫 Entre em Contato
 
 <p align="center">
-  <a href="davipaulino7@hotmail.com">
+  <a href="https://outlook.live.com/mail/0/">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/>
   </a>
   <a href="https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba">
