@@ -52,14 +52,14 @@
 
 💻 Estou focado em compartilhar meu conhecimento e aprendizado através dos meus projetos aqui no GitHub.
 
-🎯 Meu objetivo é crescer constantemente e contribuir para a comunidade tech!
+🎯 Meu objetivo é crescer constantemente, prosperar e tambem contribuir para a comunidade tech!
 
 ---
 
 ## 📫 Entre em Contato
 
 <p align="center">
-  <a href="mailto:davipaulino7@hotmail.com">
+  <a href="https://outlook.live.com/mail/0/">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/>
   </a>
   <a href="https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba">
