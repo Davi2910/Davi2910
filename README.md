@@ -37,13 +37,27 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="center">
+
+  <!-- Stats -->
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Davi2910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+    height="170" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Davi2910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
   />
+
+  <!-- Linguagens -->
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi2910&theme=dark&layout=compact&custom_title=Tecnologias"
+    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Davi2910&layout=compact&theme=dark&custom_title=Linguagens"
   />
+
+  <!-- Streak -->
+  <img 
+    height="170"
+    src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D"
+  />
+
 </p>
+
+---
+
