@@ -5,7 +5,7 @@
 🙋‍♂️ Hello World! Me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando Ciência da Computação e fazendo técnico em Informática no IFSP São João da Boa Vista. Sempre gostei de tecnologia e agora pretendo compartilhar meu conhecimento tanto aqui como para o mundo.  
 
 **Links para contato:**  
-[E-mail](https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0) | [LinkedIn](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba) | [Instagram @_paulinodavi_](https://www.instagram.com/_paulinodavi_/?next=%2F)
+[E-mail](https://outlook.live.com/mail/0/?deeplink=mail%2F0%2F%3Fnlp%3D0) | [LinkedIn](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba) | [Instagram @_paulinodavi_](https://www.instagram.com/_paulinodavi_/)
 
 ---
 
@@ -25,10 +25,10 @@
 ### 🤖 Linguagens e Tecnologias
 
 <p>
-  <img alt="HTML" title="HTML" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img alt="C" title="C" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="Java" title="Java" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 
 ---
@@ -36,15 +36,11 @@
 ### 📊 Estatísticas
 
 <p>
-  <img alt="GitHub Stats" height="180px" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Davi2910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Linguagens" height="180px" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi2910&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" />
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" />
+  <img src="https://raw.githubusercontent.com/Davi2910/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" />
 </p>
 
----
 
-### 🧐 Sobre mim
-
-* 🎂 **Idade:** 19 anos
-* 🎓 **Graduação:** Cursando Ciência da Computação
-* 💻 **Técnico:** Cursando Técnico em Informática
-* 📍 **Local:** IFSP - São João da Boa Vista
+<p>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false" />
+</p>
