@@ -48,7 +48,7 @@
 - **Ciência da Computação** - IFSP São João da Boa Vista *(em andamento)*
 
 ### 🔧 Formação Técnica
-- **Técnico em Informática** - IFSP São João da Boa Vista *(em andamento)*
+- **Técnico em Manutenção e Suporte em Informática** - IFSP São João da Boa Vista *(em andamento)*
 
 💻 Estou focado em compartilhar meu conhecimento e aprendizado através dos meus projetos aqui no GitHub.
 
