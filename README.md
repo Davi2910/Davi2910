@@ -42,18 +42,24 @@
 
 ## 👨‍💻 Sobre Mim
 
-🙋‍♂️ **Olá, mundo!** Me chamo Davi Paulino Conceição, tenho 19 anos e atualmente estou cursando **Ciência da Computação** e fazendo **técnico em Informática** no **IFSP São João da Boa Vista**. 
+🙋‍♂️ **Olá, mundo!** Me chamo Davi Paulino Conceição, tenho 19 anos e sou apaixonado por tecnologia e programação.
 
-💻 Sempre fui apaixonado por tecnologia e programação, e agora estou focado em compartilhar meu conhecimento e aprendizado através dos meus projetos aqui no GitHub.
+### 🎓 Formação Acadêmica
+- **Ciência da Computação** - IFSP São João da Boa Vista *(em andamento)*
 
-🎯 Meu objetivo é crescer constantemente como desenvolvedor e contribuir para a comunidade tech!
+### 🔧 Formação Técnica
+- **Técnico em Informática** - IFSP São João da Boa Vista *(em andamento)*
+
+💻 Estou focado em compartilhar meu conhecimento e aprendizado através dos meus projetos aqui no GitHub.
+
+🎯 Meu objetivo é crescer constantemente e contribuir para a comunidade tech!
 
 ---
 
 ## 📫 Entre em Contato
 
 <p align="center">
-  <a href="https://outlook.live.com/mail/0/">
+  <a href="mailto:davipaulino7@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/>
   </a>
   <a href="https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba">
