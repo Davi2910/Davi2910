@@ -42,7 +42,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-🙋‍♂️ **Olá, mundo!** Me chamo Davi Paulino Conceição, tenho 19 anos e sou apaixonado por tecnologia e programação.
+🙋‍♂️ **Olá mundo,** Me chamo Davi Paulino Conceição, tenho 19 anos e sou apaixonado por tecnologia e programação.
 
 ### 🎓 Formação Acadêmica
 - **Ciência da Computação** - IFSP São João da Boa Vista *(em andamento)*
