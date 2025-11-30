@@ -23,7 +23,7 @@
     <img alt="Seguidores" src="https://img.shields.io/github/followers/Davi2910?style=for-the-badge&logo=github&label=Seguidores&color=blue"/>
   </a>
   <a href="https://github.com/Davi2910?tab=repositories&sort=stargazers">
-    <img alt="Estrelas" src="https://img.shields.io/github/stars/Davi2910?style=for-the-badge&logo=github&label=Estrelas&color=yellow"/>
+    <img alt="Estrelas" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Estrelas&color=yellow&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Davi2910"/>
   </a>
 </p>
 
