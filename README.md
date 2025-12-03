@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false&locale=pt_BR&date_format=j%20M%5B%20Y%5D.svg" alt="Sequência de contribuições"/>
 </p>
 
 ---
