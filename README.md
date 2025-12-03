@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Davi2910&theme=dark&hide_border=false&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Davi2910&theme=dark&hide_border=false&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>>
 
 ---
 
